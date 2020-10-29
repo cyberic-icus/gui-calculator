@@ -3,9 +3,9 @@
 Примечание: скобки обязательны для вычисления выражений
 
 <h6>Установка</h6>
-1. У вас должен быть установлен python 3.5 или выше.
-2. У вас должен быть pip.
-3.1. Можно установить через git: git clone https://github.com/cyberic-icus/gui-calculator/
-3.2. Можно скачать zip с сайта.
-4. Переходим через cmd в директорию с файлом requirements.txt и пишем pip install requirements.txt
-5. Запускаем main.py и наслаждаемся жизнью
+1. У вас должен быть установлен python 3.5 или выше.</br>
+2. У вас должен быть pip.</br>
+3.1. Можно установить через git: git clone https://github.com/cyberic-icus/gui-calculator/</br>
+3.2. Можно скачать zip с сайта.</br>
+4. Переходим через cmd в директорию с файлом requirements.txt и пишем pip install requirements.txt</br>
+5. Запускаем main.py и наслаждаемся жизнью.</br>
