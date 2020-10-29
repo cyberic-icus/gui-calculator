@@ -36,7 +36,7 @@ class ExampleApp(QtWidgets.QMainWindow, Ui_mainWindow):
 		self.Equals.clicked.connect(self.calculate)
 
 		self._exp = ''
-		self._result = None
+		self._result = ''
 
 	def zero(self):
 		self._exp = self._exp +'0'
